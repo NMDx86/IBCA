@@ -15,5 +15,5 @@ This is what you need to look for in the files
 The line "bettercombat:presetid": "bettercombat:claymore" is the preset settings, simply change sword to other presets found here:
 https://github.com/ZsoltMolnarrr/BetterCombat/tree/1.21.11/common/src/main/resources/data/bettercombat/weapon_attributes
 
-For example, you want the harvester to be a 2 handed katana, just change the bettercombat:sword to bettercombat:katana, simple!
+For example, you want the witherbane to be a 2 handed katana, just change the bettercombat:sword to bettercombat:katana, simple!
 
